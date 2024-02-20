@@ -1,1 +1,1 @@
-# envio_de_email_pdn
+# Script Python para envio de emails utilizando o GMAIL API
